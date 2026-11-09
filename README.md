@@ -199,4 +199,4 @@ This repository serves as the official landing page for Add-In-Manager. The soft
 **Get the most recent version of Add-In-Manager today!**
 
 ---
-**Last updated:** 2026-11-08 20:55:24 UTC
+**Last updated:** 2026-11-09 00:25:23 UTC
